@@ -1,12 +1,8 @@
 package com.takealot.util;
 
 public class PaytmConstants {
-	public final static String MID = "rquPIq90347669202139";
-	public final static String MERCHANT_KEY = "HUyo9P1eUb#DUcT&";
-
-//	public final static String MID = "XVvIKC99526660849837";
-//	public final static String MERCHANT_KEY = "7xviXno1q2h58voP";
-
+	public final static String MID = "example@xyz";
+	public final static String MERCHANT_KEY = "example@xyz";
 	
 	public final static String INDUSTRY_TYPE_ID = "Retail";
 	public final static String CHANNEL_ID = "WEB";
